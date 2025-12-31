@@ -2,7 +2,8 @@
 Hi there!<br>I'm a student at IMT Atlantique, and I’ve been interested in programming since middle school. My studies have always been guided by this interest. In high school, I also developed a strong passion for Physics and Mathematics, which I further explored by creating small software programs and simulations related to these fields.<br><br>At IMT Atlantique, my focus has been mainly on Physics, especially wave physics, including RADAR architecture and antennas. I have also studied LiDAR and optical fibers. Additionally, I have gained some experience with artificial intelligence, particularly in understanding how AI processes information to make decisions.<br><br>Next semester, I will spend a semester at UEF, where I plan to continue learning AI by studying computer vision and pattern recognition. Next year, I aim to study electrical integration, including programming FPGAs.
 
 ## 🌐 Socials:
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/killian-kerlau-2356332a0](https://img.shields.io/badge/LinkedIn-Connect_With_Killian-blue?style=for-the-badge&logo=linkedin&logoColor=white)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Killian-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/killian-kerlau-2356332a0)
+
 
 # 💻 Tech Stack:
 
