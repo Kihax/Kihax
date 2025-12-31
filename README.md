@@ -73,8 +73,3 @@ Hi there!<br>I'm a student at IMT Atlantique, and I’ve been interested in prog
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kihax&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kihax&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kihax&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
